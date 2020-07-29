@@ -1,4 +1,4 @@
-# Fantasy Football Projection Model
+# Fantasy Football Draft Projection
 **Predicting a player's fantasy football success from their historical performance for pre-draft ranking**
 
 **Language:** Python (pandas, sklearn, seaborn, numpy) <br/>
@@ -14,8 +14,8 @@ However, to have a more comparative metric, the prediction output was converted 
 
 The results are summarized in the links below, with the data manipulation in the first notebook, modeling and scoring in the second, and a tableau storyboard for visualization and summary of the data.
 
-- **Notebook 1:** [Feature Extraction and Data Formatting](https://github.com/albechen/fantasyfootball-projection-model/blob/master/ff-1-feature_extract_clean.ipynb)
-- **Notebook 2:** [Model Evaluations and Predictions](https://github.com/albechen/fantasyfootball-projection-model/blob/master/ff-2-model_predict_score.ipynb)
+- **Notebook 1:** [Feature Extraction and Data Formatting](https://github.com/albechen/fantasyfootball-draft-projection/blob/master/ff-1-feature_extract_clean.ipynb)
+- **Notebook 2:** [Model Evaluations and Predictions](https://github.com/albechen/fantasyfootball-draft-projection/blob/master/ff-2-model_predict_score.ipynb)
 - **Tableau:** [Visualization Summary](https://public.tableau.com/profile/a.chen#!/vizhome/ff-tableau-summary/FINALStoryBoard)
 
 ## Tableau Sample:
